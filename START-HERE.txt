@@ -1,0 +1,1 @@
+MY WORKOUTS Version 5.0. See V5_0_BUILD_AND_RELEASE.md and V5_0_CHANGELOG.md. Older documents are in docs/.
